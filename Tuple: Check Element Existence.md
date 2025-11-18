@@ -1,3 +1,4 @@
+
 # Tuple in Python: Check Element Existence
 
 ## 🎯 Aim
@@ -10,8 +11,13 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 4. Print the results.
 
 ## 🧾 Program
-Add code here
-
+```
+tuplex = input()
+print("n" in tuplex)
+print("8" in tuplex)
+```
 ## Output
+<img width="958" height="288" alt="438594831-9eb5f9ee-f253-4ce0-8de0-13535810c69a" src="https://github.com/user-attachments/assets/b349d890-f3cd-4341-99c3-4b873cea72cc" />
 
 ## Result
+Thus the program executed successfully.
